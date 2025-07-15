@@ -2,7 +2,7 @@
 
 A sleek and minimal password generator built using **React** and **Tailwind CSS**. Generate secure passwords with adjustable length, visibility toggle, and clipboard support.
 
-( /home/x/Pictures/Screenshots/passgen.png)
+(./result/passgen.png)
 
 ## 🚀 Features
 
